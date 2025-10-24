@@ -80,5 +80,3 @@ const Card = ({ icon, title, text }) => (
 
 export default About;
 
-
-
