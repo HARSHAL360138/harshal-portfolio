@@ -36,8 +36,8 @@ function About() {
               title="Experience"
               text={
                 <>
-                  Intern (MERN STACK Developer)<br />
-                  @ Softtronix Software Services Pvt. Ltd., NAGPUR
+                  (MERN STACK Developer)<br />
+                  @ NKB Quantum Labs Pvt. Ltd., NAGPUR
                 </>
               }
             />
